@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/hxrc_codetask_2025/',
+  base: '/HXRC_Coding_Task_2025/',
   plugins: [react(), tailwindcss()]
 })
